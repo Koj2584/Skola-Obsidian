@@ -2,5 +2,5 @@ Po vytvoření se bude v daných adresářích možnost použít slovíčko make
 
 ```makefile
 main:
-
+	příkaz
 ```
