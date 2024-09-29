@@ -5,6 +5,9 @@
 	2. [[IEL#I. Kirchhoffův zákon|I. Kirchhoffův zákon]]
 	3. [[IEL#II. Kirchhoffův zákon|II. Kirchhoffův zákon]]
 
+##### Učivo
+1. [[Základy]]
+
 ###### Další odkazy
 1. [[Projekt]]
 2. [[Bonusové body]]
