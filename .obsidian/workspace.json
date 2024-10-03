@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "493fe2169cfa21a5",
+        "id": "ef65399c9a5ffaaf",
         "type": "tabs",
         "children": [
           {
-            "id": "da22f47c3b1bdc27",
+            "id": "687f7aabde791aee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9748ac0031e3403a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IZP/Makefile.md",
+                "file": "Práce s haldou.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IZP/Makefile.md",
+                "file": "Práce s haldou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IZP/Makefile.md",
+                "file": "Práce s haldou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IZP/Makefile.md"
+                "file": "Práce s haldou.md"
               }
             }
           },
@@ -141,52 +150,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "random-note:Otevřít náhodnou poznámku": false,
+      "audio-recorder:Spustit/zastavit nahrávání": false,
       "canvas:Create new canvas": false
     }
   },
-  "active": "da22f47c3b1bdc27",
+  "active": "9748ac0031e3403a",
   "lastOpenFiles": [
+    "IZP/IZP.md",
+    "IZP/Ukazatele.md",
+    "Práce s haldou.md",
     "IZP/Verzování.md",
-    "IZP/Vyšší programovací jazyky.md",
-    "IEL/Základy.md",
-    "Foto/Dělič napětí.png",
-    "Foto/Dělič napětí.png",
-    "Foto/Dělič napětí.png",
-    "Foto/Skutečný - Ideální zdroj proudu.png",
-    "Foto/Skutečný - Ideální zdroj napětí.png",
-    "Foto/Ideální zdroj proudu.png",
-    "Foto/Ideální zdroj napětí.png",
-    "Pasted image 20240929124609.png",
-    "Foto/Graf zdroje.png",
+    "IZP/Makefile.md",
+    "IEL/Theveninův teorém.md",
     "IEL/IEL.md",
+    "Foto/Tt obvod 1.png",
+    "Foto/Tt obvod 3.png",
+    "IEL/Kapacita a indukce.md",
+    "Foto/Tt obvod 2.png",
+    "IUS/Základy.md",
+    "IUS/IUS.md",
+    "IEL/Základy.md",
+    "Foto/Stavový diagram.png",
+    "Foto/Stavový diagram.png",
+    "Foto/Diagram aktivit.png",
+    "Foto/iclude a exclude.png",
+    "Foto/Specifikace Use case diagram.png",
+    "Foto/Use case diagram.png",
+    "IUS",
+    "Foto/Dělič napětí.png",
     "ROZCESTNÍK.md",
     "IEL/Projekt.md",
     "IEL/Bonusové body.md",
-    "Foto/Smyčka.png",
     "Foto",
     "IZP/Git.md",
-    "IZP/Makefile.md",
-    "IZP/IZP.md",
     "IDM.md",
     "ILG.md",
-    "Bez názvu",
     "IZP",
     "IEL",
     "Recording 20240924224146.webm",
     "Bez názvu.canvas",
     "2024-09-24.md",
-    "IUS.md",
     "IDM/Main.md",
     "IEL/Main.md",
     "IDM",
